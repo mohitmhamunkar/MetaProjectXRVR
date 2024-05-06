@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/ArangeElements.cs">
+    <Files>
+      <File FileName="Assets/ArangeElements.cs" Line="47" Column="12" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="My project (1)" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="ArangeElements.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="2bf2ec39-0f86-42ef-b72f-7f1aec81c173" />
+</Properties>

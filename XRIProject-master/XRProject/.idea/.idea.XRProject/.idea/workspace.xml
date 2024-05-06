@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4641183e-9211-42a4-ad1d-f2cab80fc27f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.XRProject/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.XRProject/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assembly-CSharp-Editor.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Assembly-CSharp-Editor.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assembly-CSharp.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Assembly-CSharp.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/HandDetector.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/HandDetector.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Interaction_CameraTool_Shutter_01 (1).wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Interaction_CameraTool_Shutter_01 (1).wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/IntroScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/IntroScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AssistantCoreSDKEditor.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/AssistantCoreSDKEditor.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AssistantCoreSDKRuntime.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/AssistantCoreSDKRuntime.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Facebook.Wit.Dictation.Editor.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Facebook.Wit.Dictation.Editor.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Facebook.Wit.Dictation.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Facebook.Wit.Dictation.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Logs/AssetImportWorker0-prev.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Logs/AssetImportWorker0.log" beforeDir="false" afterPath="$PROJECT_DIR$/Logs/AssetImportWorker0.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Logs/AssetImportWorker1-prev.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Logs/AssetImportWorker1.log" beforeDir="false" afterPath="$PROJECT_DIR$/Logs/AssetImportWorker1.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Logs/shadercompiler-AssetImportWorker0.log" beforeDir="false" afterPath="$PROJECT_DIR$/Logs/shadercompiler-AssetImportWorker0.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Logs/shadercompiler-UnityShaderCompiler0.log" beforeDir="false" afterPath="$PROJECT_DIR$/Logs/shadercompiler-UnityShaderCompiler0.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Logs/shadercompiler-UnityShaderCompiler1.log" beforeDir="false" afterPath="$PROJECT_DIR$/Logs/shadercompiler-UnityShaderCompiler1.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Logs/shadercompiler-UnityShaderCompiler2.log" beforeDir="false" afterPath="$PROJECT_DIR$/Logs/shadercompiler-UnityShaderCompiler2.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Logs/shadercompiler-UnityShaderCompiler3.log" beforeDir="false" afterPath="$PROJECT_DIR$/Logs/shadercompiler-UnityShaderCompiler3.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Logs/shadercompiler-UnityShaderCompiler4.log" beforeDir="false" afterPath="$PROJECT_DIR$/Logs/shadercompiler-UnityShaderCompiler4.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Logs/shadercompiler-UnityShaderCompiler5.log" beforeDir="false" afterPath="$PROJECT_DIR$/Logs/shadercompiler-UnityShaderCompiler5.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Logs/shadercompiler-UnityShaderCompiler6.log" beforeDir="false" afterPath="$PROJECT_DIR$/Logs/shadercompiler-UnityShaderCompiler6.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Logs/shadercompiler-UnityShaderCompiler7.log" beforeDir="false" afterPath="$PROJECT_DIR$/Logs/shadercompiler-UnityShaderCompiler7.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Logs/shadercompiler-UnityShaderCompiler8.log" beforeDir="false" afterPath="$PROJECT_DIR$/Logs/shadercompiler-UnityShaderCompiler8.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Logs/shadercompiler-UnityShaderCompiler9.log" beforeDir="false" afterPath="$PROJECT_DIR$/Logs/shadercompiler-UnityShaderCompiler9.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Meta.VoiceSDK.Mic.Common.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Meta.VoiceSDK.Mic.Common.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Meta.VoiceSDK.Mic.Other.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Meta.VoiceSDK.Mic.Other.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Meta.WitAI.Lib.Editor.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Meta.WitAI.Lib.Editor.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Meta.WitAi.Conduit.Editor.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Meta.WitAi.Conduit.Editor.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Meta.WitAi.Conduit.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Meta.WitAi.Conduit.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Meta.WitAi.Editor.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Meta.WitAi.Editor.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Meta.WitAi.Lib.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Meta.WitAi.Lib.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Meta.WitAi.TTS.Editor.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Meta.WitAi.TTS.Editor.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Meta.WitAi.TTS.Samples.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Meta.WitAi.TTS.Samples.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Meta.WitAi.TTS.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Meta.WitAi.TTS.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Meta.WitAi.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Meta.WitAi.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Oculus.AudioManager.Audio.Editor.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Oculus.AudioManager.Audio.Editor.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Oculus.AudioManager.Utils.Editor.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Oculus.AudioManager.Utils.Editor.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Oculus.AudioManager.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Oculus.AudioManager.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Oculus.Interaction.Editor.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Oculus.Interaction.Editor.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Oculus.Interaction.InterfaceSupport.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Oculus.Interaction.InterfaceSupport.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Oculus.Interaction.OVR.Editor.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Oculus.Interaction.OVR.Editor.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Oculus.Interaction.OVR.Samples.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Oculus.Interaction.OVR.Samples.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Oculus.Interaction.OVR.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Oculus.Interaction.OVR.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Oculus.Interaction.Samples.Editor.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Oculus.Interaction.Samples.Editor.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Oculus.Interaction.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Oculus.Interaction.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Oculus.LipSync.Editor.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Oculus.LipSync.Editor.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Oculus.LipSync.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Oculus.LipSync.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Oculus.Platform.Editor.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Oculus.Platform.Editor.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Oculus.Platform.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Oculus.Platform.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Oculus.Spatializer.Editor.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Oculus.Spatializer.Editor.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Oculus.Spatializer.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Oculus.Spatializer.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Oculus.VR.Editor.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Oculus.VR.Editor.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Oculus.VR.Scripts.Editor.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Oculus.VR.Scripts.Editor.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Oculus.VR.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Oculus.VR.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Oculus.Voice.Demo.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Oculus.Voice.Demo.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/FSTimeGet-12c0649d7b2914d0da12a0a53096abdd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/FSTimeGet-175ad765c13cf4181b9b5d70867923d4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/FSTimeGet-661b6d8bd2e5a4eeaa716580d2bee103" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/PlayerBuildAnalyticsEvents.json" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/PlayerBuildAnalyticsEvents.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/ProcessJobs/b8613a84801a46c691ba1681b66ddf56.layout" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/ProcessJobs/e9a6970f79cd12d8b075e7d72f1b07cb.bakert" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Data/Managed/Assembly-CSharp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/StagingArea/Data/Managed/Assembly-CSharp.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Data/Managed/Assembly-CSharp.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/StagingArea/Data/Managed/Assembly-CSharp.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Data/Managed/AssistantCoreSDKRuntime.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/StagingArea/Data/Managed/AssistantCoreSDKRuntime.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Data/Managed/AssistantCoreSDKRuntime.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/StagingArea/Data/Managed/AssistantCoreSDKRuntime.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Data/Managed/EditorToUnityLinkerData.json" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/StagingArea/Data/Managed/EditorToUnityLinkerData.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Data/Managed/Facebook.Wit.Dictation.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/StagingArea/Data/Managed/Facebook.Wit.Dictation.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Data/Managed/Facebook.Wit.Dictation.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/StagingArea/Data/Managed/Facebook.Wit.Dictation.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Data/Managed/Meta.VoiceSDK.Mic.Common.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/StagingArea/Data/Managed/Meta.VoiceSDK.Mic.Common.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Data/Managed/Meta.VoiceSDK.Mic.Common.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/StagingArea/Data/Managed/Meta.VoiceSDK.Mic.Common.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Data/Managed/Meta.VoiceSDK.Mic.Other.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/StagingArea/Data/Managed/Meta.VoiceSDK.Mic.Other.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Data/Managed/Meta.VoiceSDK.Mic.Other.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/StagingArea/Data/Managed/Meta.VoiceSDK.Mic.Other.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Data/Managed/Meta.WitAi.Conduit.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/StagingArea/Data/Managed/Meta.WitAi.Conduit.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Data/Managed/Meta.WitAi.Conduit.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/StagingArea/Data/Managed/Meta.WitAi.Conduit.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Data/Managed/Meta.WitAi.Lib.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/StagingArea/Data/Managed/Meta.WitAi.Lib.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Data/Managed/Meta.WitAi.Lib.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/StagingArea/Data/Managed/Meta.WitAi.Lib.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Data/Managed/Meta.WitAi.TTS.Samples.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/StagingArea/Data/Managed/Meta.WitAi.TTS.Samples.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Data/Managed/Meta.WitAi.TTS.Samples.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/StagingArea/Data/Managed/Meta.WitAi.TTS.Samples.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Data/Managed/Meta.WitAi.TTS.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/StagingArea/Data/Managed/Meta.WitAi.TTS.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Data/Managed/Meta.WitAi.TTS.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/StagingArea/Data/Managed/Meta.WitAi.TTS.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Data/Managed/Meta.WitAi.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/StagingArea/Data/Managed/Meta.WitAi.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Data/Managed/Meta.WitAi.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/StagingArea/Data/Managed/Meta.WitAi.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Data/Managed/Oculus.AudioManager.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/StagingArea/Data/Managed/Oculus.AudioManager.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Data/Managed/Oculus.AudioManager.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/StagingArea/Data/Managed/Oculus.AudioManager.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Data/Managed/Oculus.Interaction.OVR.Samples.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/StagingArea/Data/Managed/Oculus.Interaction.OVR.Samples.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Data/Managed/Oculus.Interaction.OVR.Samples.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/StagingArea/Data/Managed/Oculus.Interaction.OVR.Samples.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Data/Managed/Oculus.Interaction.OVR.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/StagingArea/Data/Managed/Oculus.Interaction.OVR.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Data/Managed/Oculus.Interaction.OVR.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/StagingArea/Data/Managed/Oculus.Interaction.OVR.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Data/Managed/Oculus.Interaction.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/StagingArea/Data/Managed/Oculus.Interaction.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Data/Managed/Oculus.Interaction.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/StagingArea/Data/Managed/Oculus.Interaction.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Data/Managed/Oculus.LipSync.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/StagingArea/Data/Managed/Oculus.LipSync.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Data/Managed/Oculus.LipSync.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/StagingArea/Data/Managed/Oculus.LipSync.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Data/Managed/Oculus.Platform.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/StagingArea/Data/Managed/Oculus.Platform.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Data/Managed/Oculus.Platform.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/StagingArea/Data/Managed/Oculus.Platform.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Data/Managed/Oculus.Spatializer.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/StagingArea/Data/Managed/Oculus.Spatializer.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Data/Managed/Oculus.Spatializer.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/StagingArea/Data/Managed/Oculus.Spatializer.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Data/Managed/Oculus.VR.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/StagingArea/Data/Managed/Oculus.VR.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Data/Managed/Oculus.VR.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/StagingArea/Data/Managed/Oculus.VR.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Data/Managed/Oculus.Voice.Demo.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/StagingArea/Data/Managed/Oculus.Voice.Demo.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Data/Managed/Oculus.Voice.Demo.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/StagingArea/Data/Managed/Oculus.Voice.Demo.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Data/Managed/TypesInScenes.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/StagingArea/Data/Managed/TypesInScenes.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Data/Managed/Unity.Services.Core.Analytics.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/StagingArea/Data/Managed/Unity.Services.Core.Analytics.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Data/Managed/Unity.Services.Core.Analytics.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/StagingArea/Data/Managed/Unity.Services.Core.Analytics.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Data/Managed/Unity.Services.Core.Configuration.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/StagingArea/Data/Managed/Unity.Services.Core.Configuration.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Data/Managed/Unity.Services.Core.Configuration.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/StagingArea/Data/Managed/Unity.Services.Core.Configuration.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Data/Managed/Unity.Services.Core.Device.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/StagingArea/Data/Managed/Unity.Services.Core.Device.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Data/Managed/Unity.Services.Core.Device.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/StagingArea/Data/Managed/Unity.Services.Core.Device.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Data/Managed/Unity.Services.Core.Environments.Internal.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/StagingArea/Data/Managed/Unity.Services.Core.Environments.Internal.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Data/Managed/Unity.Services.Core.Environments.Internal.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/StagingArea/Data/Managed/Unity.Services.Core.Environments.Internal.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Data/Managed/Unity.Services.Core.Environments.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/StagingArea/Data/Managed/Unity.Services.Core.Environments.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Data/Managed/Unity.Services.Core.Environments.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/StagingArea/Data/Managed/Unity.Services.Core.Environments.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Data/Managed/Unity.Services.Core.Internal.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/StagingArea/Data/Managed/Unity.Services.Core.Internal.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Data/Managed/Unity.Services.Core.Internal.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/StagingArea/Data/Managed/Unity.Services.Core.Internal.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Data/Managed/Unity.Services.Core.Networking.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/StagingArea/Data/Managed/Unity.Services.Core.Networking.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Data/Managed/Unity.Services.Core.Networking.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/StagingArea/Data/Managed/Unity.Services.Core.Networking.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Data/Managed/Unity.Services.Core.Registration.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/StagingArea/Data/Managed/Unity.Services.Core.Registration.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Data/Managed/Unity.Services.Core.Registration.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/StagingArea/Data/Managed/Unity.Services.Core.Registration.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Data/Managed/Unity.Services.Core.Scheduler.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/StagingArea/Data/Managed/Unity.Services.Core.Scheduler.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Data/Managed/Unity.Services.Core.Scheduler.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/StagingArea/Data/Managed/Unity.Services.Core.Scheduler.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Data/Managed/Unity.Services.Core.Telemetry.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/StagingArea/Data/Managed/Unity.Services.Core.Telemetry.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Data/Managed/Unity.Services.Core.Telemetry.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/StagingArea/Data/Managed/Unity.Services.Core.Telemetry.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Data/Managed/Unity.Services.Core.Threading.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/StagingArea/Data/Managed/Unity.Services.Core.Threading.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Data/Managed/Unity.Services.Core.Threading.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/StagingArea/Data/Managed/Unity.Services.Core.Threading.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Data/Managed/Unity.Services.Core.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/StagingArea/Data/Managed/Unity.Services.Core.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Data/Managed/Unity.Services.Core.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/StagingArea/Data/Managed/Unity.Services.Core.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Data/Managed/Unity.Subsystem.Registration.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/StagingArea/Data/Managed/Unity.Subsystem.Registration.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Data/Managed/Unity.Subsystem.Registration.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/StagingArea/Data/Managed/Unity.Subsystem.Registration.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Data/Managed/Unity.TextMeshPro.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/StagingArea/Data/Managed/Unity.TextMeshPro.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Data/Managed/Unity.TextMeshPro.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/StagingArea/Data/Managed/Unity.TextMeshPro.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Data/Managed/Unity.Timeline.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/StagingArea/Data/Managed/Unity.Timeline.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Data/Managed/Unity.Timeline.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/StagingArea/Data/Managed/Unity.Timeline.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Data/Managed/Unity.VisualScripting.Core.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/StagingArea/Data/Managed/Unity.VisualScripting.Core.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Data/Managed/Unity.VisualScripting.Core.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/StagingArea/Data/Managed/Unity.VisualScripting.Core.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Data/Managed/Unity.VisualScripting.Flow.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/StagingArea/Data/Managed/Unity.VisualScripting.Flow.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Data/Managed/Unity.VisualScripting.Flow.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/StagingArea/Data/Managed/Unity.VisualScripting.Flow.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Data/Managed/Unity.VisualScripting.State.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/StagingArea/Data/Managed/Unity.VisualScripting.State.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Data/Managed/Unity.VisualScripting.State.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/StagingArea/Data/Managed/Unity.VisualScripting.State.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Data/Managed/Unity.XR.Management.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/StagingArea/Data/Managed/Unity.XR.Management.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Data/Managed/Unity.XR.Management.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/StagingArea/Data/Managed/Unity.XR.Management.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Data/Managed/Unity.XR.Oculus.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/StagingArea/Data/Managed/Unity.XR.Oculus.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Data/Managed/Unity.XR.Oculus.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/StagingArea/Data/Managed/Unity.XR.Oculus.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Data/Managed/UnityEngine.SpatialTracking.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/StagingArea/Data/Managed/UnityEngine.SpatialTracking.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Data/Managed/UnityEngine.SpatialTracking.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/StagingArea/Data/Managed/UnityEngine.SpatialTracking.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Data/Managed/UnityEngine.UI.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/StagingArea/Data/Managed/UnityEngine.UI.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Data/Managed/UnityEngine.UI.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/StagingArea/Data/Managed/UnityEngine.UI.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Data/Managed/UnityEngine.XR.LegacyInputHelpers.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/StagingArea/Data/Managed/UnityEngine.XR.LegacyInputHelpers.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Data/Managed/UnityEngine.XR.LegacyInputHelpers.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/StagingArea/Data/Managed/UnityEngine.XR.LegacyInputHelpers.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Data/Managed/VoiceSDK.Dictation.Runtime.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/StagingArea/Data/Managed/VoiceSDK.Dictation.Runtime.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Data/Managed/VoiceSDK.Dictation.Runtime.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/StagingArea/Data/Managed/VoiceSDK.Dictation.Runtime.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Data/Managed/VoiceSDK.Runtime.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/StagingArea/Data/Managed/VoiceSDK.Runtime.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/StagingArea/Data/Managed/VoiceSDK.Runtime.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/StagingArea/Data/Managed/VoiceSDK.Runtime.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/__Backupscenes/0.backup" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/__Backupscenes/0.backup" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/workerlic" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/workerlic" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unity.XR.Management.Samples.Editor.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Unity.XR.Management.Samples.Editor.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unity.XR.Management.Samples.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Unity.XR.Management.Samples.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VoiceSDK.Dictation.Editor.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/VoiceSDK.Dictation.Editor.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VoiceSDK.Dictation.Runtime.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/VoiceSDK.Dictation.Runtime.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VoiceSDK.Editor.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/VoiceSDK.Editor.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VoiceSDK.Runtime.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/VoiceSDK.Runtime.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XRProject.sln" beforeDir="false" afterPath="$PROJECT_DIR$/XRProject.sln" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp-Editor.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp-Editor.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/Oculus.Interaction.Editor.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/Oculus.Interaction.Editor.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/Oculus.Platform.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/Oculus.Platform.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/Unity.XR.Management.Samples.Editor.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/Unity.XR.Management.Samples.Editor.csproj.AssemblyReference.cache" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/3ea01e77be99618395f448b16bd7cc2bd4248bd9e5d8474964b2d97f39c5d74/System.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2NveX41hNfh2NKmnVCRXtU6eoO5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Discover.Launch.Via.Unity&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;rider.external.source.directories&quot;: [
+      &quot;/Users/aneesh/Library/Application Support/JetBrains/Rider2022.3/resharper-host/DecompilerCache&quot;,
+      &quot;/Users/aneesh/Library/Application Support/JetBrains/Rider2022.3/resharper-host/SourcesCache&quot;,
+      &quot;/Users/aneesh/.local/share/Symbols/src&quot;
+    ]
+  }
+}</component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Start Unity" type="RunUnityExe" factoryName="Unity Executable">
+      <option name="EXE_PATH" value="/Applications/Unity/Hub/Editor/2021.3.16f1/Unity.app/Contents/MacOS/Unity" />
+      <option name="PROGRAM_PARAMETERS" value="-projectPath &quot;$PROJECT_DIR$&quot; -debugCodeOptimization" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <method v="2" />
+    </configuration>
+    <configuration name="UnitTests (batch mode)" type="RunUnityExe" factoryName="Unity Executable">
+      <option name="EXE_PATH" value="/Applications/Unity/Hub/Editor/2021.3.16f1/Unity.app/Contents/MacOS/Unity" />
+      <option name="PROGRAM_PARAMETERS" value="-runTests -batchmode -projectPath &quot;$PROJECT_DIR$&quot; -testResults Logs/results.xml -testPlatform EditMode -debugCodeOptimization" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="projectPathOnTarget" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="projectPathOnTarget" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4641183e-9211-42a4-ad1d-f2cab80fc27f" name="Changes" comment="" />
+      <created>1680549020437</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1680549020437</updated>
+      <workItem from="1680549022317" duration="3001000" />
+      <workItem from="1680569875325" duration="6448000" />
+      <workItem from="1680909535764" duration="618000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>
