@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Oculus/Interaction/Samples/Scenes/Examples/PokeExamples.unity
+    guid: ada3086bde0ab18459589e22d8d9e182
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/IntroScene.unity
+    guid: 022bc269538676a41ac4f35739b05a24
+  - enabled: 1
+    path: Assets/Scenes/SphericalSceneController.unity
+    guid: 50bb5fe7cee1af04497bd13284a59e98
+  - enabled: 1
+    path: Assets/Scenes/QwertySceneController.unity
+    guid: e155669f1323fd341a1e607eeffb1f50
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: Assets/Bhaptics/SDK/Examples/Scenes/Android/1_Android_Widget.unity
+    guid: 73cb683630f5a594ea306e918193265d
+  - enabled: 0
+    path: Assets/BhapticsIntegration/QuestIntegration/Scenes/1. Collision Example.unity
+    guid: e280f86a25a794940a9bc956059fac7f
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/QwertyScenePoke.unity
+    guid: e487fd038a7c0411499a6c4d391f89e9
+  - enabled: 0
+    path: Assets/Scenes/SelectSeen.unity
+    guid: 2965d8b722035440a8f8482b5d50b26c
+  - enabled: 1
+    path: Assets/Scenes/EndScene.unity
+    guid: d3afdd78158eb421b8fb05db919be4eb
+  - enabled: 1
+    path: Assets/Scenes/SphericalScenePoke.unity
+    guid: 6b034a661217f46cda838946851d1d39
+  - enabled: 0
+    path: Assets/Oculus/Interaction/Samples/Scenes/Examples/GestureExamples.unity
+    guid: 4ee2a082a0e621b49ab01667c66f1599
+  - enabled: 0
+    path: Assets/Oculus/Interaction/Samples/Scenes/Examples/GestureExamples 1.unity
+    guid: 309326a58c03e4175952b3668e2bcce8
+  - enabled: 1
+    path: Assets/Scenes/SceneManagment.unity
+    guid: 4215a9c38cc554f45a98443a01e9bb59
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: b388f64be808a4148959663512302929, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 22a4ba6d095754c00b577db9fd2f5405, type: 2}
